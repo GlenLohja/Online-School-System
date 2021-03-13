@@ -1,2 +1,2 @@
 # Online-School-System
-Online School system created using C++ 
+Online School system created using C
